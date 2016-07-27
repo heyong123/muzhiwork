@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="account_title">游戏角色：</string>
+   <string name="amount_title">充值金额：</string>
+   <string name="game_title">游戏区服 ：</string>
+</resources>

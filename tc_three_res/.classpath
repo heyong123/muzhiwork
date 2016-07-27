@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="libs/cn.egame.terminal.paysdk.jar"/>
+	<classpathentry kind="lib" path="libs/mmsmsbilling1.5.0.jar"/>
+	<classpathentry kind="lib" path="libs/alipaySdk-20151112.jar"/>
+	<classpathentry kind="lib" path="libs/egame.log_20151109_out_release.jar"/>
+	<classpathentry kind="lib" path="libs/LtayxSmsPay.jar"/>
+	<classpathentry kind="lib" path="libs/ZTYSDK_SA_JJ.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="#8811ee3e"
+    android:orientation="vertical" >
+    
+ <Button
+     android:id="@+id/test_login"
+     android:layout_width="250dp"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="50dp"
+     android:layout_gravity="center_horizontal"
+     android:text=" 登录  " />
+
+  <Button
+      android:id="@+id/test_Pay"
+      android:layout_width="250dp"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="30dp"
+      android:layout_gravity="center_horizontal"
+      android:text=" 支付   " />
+
+  <Button
+      android:id="@+id/test_exit"
+      android:layout_width="250dp"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="30dp"
+      android:layout_gravity="center_horizontal"
+      android:text=" 退出  " />
+
+</LinearLayout>

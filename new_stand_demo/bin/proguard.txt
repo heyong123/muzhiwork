@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:30
+-keep class mobi.zty.pay.test.MyApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class mobi.zty.pay.test.TestActivity { <init>(...); }
+
