@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">最新单机SDK</string>
+    <string name = "cancelbtn">取消支付</string>
+    <string name = "confirmbtn">确认支付</string>
+
+</resources>
